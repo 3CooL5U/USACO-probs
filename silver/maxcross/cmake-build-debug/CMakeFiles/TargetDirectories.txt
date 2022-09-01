@@ -1,0 +1,3 @@
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/maxcross/cmake-build-debug/CMakeFiles/maxcross.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/maxcross/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/maxcross/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/bronze/outofplace/cmake-build-debug/CMakeFiles/outofplace.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/bronze/outofplace/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/bronze/outofplace/cmake-build-debug/CMakeFiles/rebuild_cache.dir

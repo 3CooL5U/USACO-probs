@@ -1,0 +1,3 @@
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/loan/cmake-build-debug/CMakeFiles/loan.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/loan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/loan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

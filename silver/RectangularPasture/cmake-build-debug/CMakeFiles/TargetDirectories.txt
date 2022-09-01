@@ -1,0 +1,3 @@
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/RectangularPasture/cmake-build-debug/CMakeFiles/RectangularPasture.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/RectangularPasture/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/RectangularPasture/cmake-build-debug/CMakeFiles/rebuild_cache.dir

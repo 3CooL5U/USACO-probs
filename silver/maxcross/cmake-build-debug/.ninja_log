@@ -1,0 +1,17 @@
+# ninja log v5
+1	1015	6804796088319050	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+1018	1110	6804796089236606	maxcross.exe	cd2b2c93163e2f2
+3	1008	6804796408160622	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+1009	1098	6804796409028519	maxcross.exe	cd2b2c93163e2f2
+6	1117	6804796899528224	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+1118	1210	6804796900415849	maxcross.exe	cd2b2c93163e2f2
+2	1001	6804800321605794	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+1002	1094	6804800322504939	maxcross.exe	cd2b2c93163e2f2
+2	1074	6804800687323246	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+1075	1199	6804800688639718	maxcross.exe	cd2b2c93163e2f2
+3	929	6804800822865590	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+929	1017	6804800823723525	maxcross.exe	cd2b2c93163e2f2
+3	947	6804800996751024	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+947	1036	6804800997608551	maxcross.exe	cd2b2c93163e2f2
+3	991	6804801379017471	CMakeFiles/maxcross.dir/main.cpp.obj	4beeadeb4a62778c
+991	1097	6804801380049125	maxcross.exe	cd2b2c93163e2f2

@@ -1,0 +1,3 @@
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/Cereal2/cmake-build-debug/CMakeFiles/Cereal2.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/Cereal2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/Cereal2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

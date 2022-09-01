@@ -1,0 +1,3 @@
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/wormsort/cmake-build-debug/CMakeFiles/wormsort.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/wormsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/OneDrive/Desktop/USACO/usaco guide/silver/wormsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
