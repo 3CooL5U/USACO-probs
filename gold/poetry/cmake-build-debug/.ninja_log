@@ -1,0 +1,9 @@
+# ninja log v5
+0	1170	6845452924139019	CMakeFiles/poetry.dir/main.cpp.obj	764d669ccf28e3d1
+1173	1292	6845452925331184	poetry.exe	620fbdc3b3c0ebed
+2	1069	6845453166739098	CMakeFiles/poetry.dir/main.cpp.obj	764d669ccf28e3d1
+1070	1170	6845453167716713	poetry.exe	620fbdc3b3c0ebed
+6	1148	6845455818237000	CMakeFiles/poetry.dir/main.cpp.obj	764d669ccf28e3d1
+1148	1245	6845455819184187	poetry.exe	620fbdc3b3c0ebed
+2	1080	6845458703533395	CMakeFiles/poetry.dir/main.cpp.obj	764d669ccf28e3d1
+1081	1175	6845458704464089	poetry.exe	620fbdc3b3c0ebed
