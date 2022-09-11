@@ -6,7 +6,7 @@ ofstream fout("exercise.out");
 
 int N;
 bool composite[10005];
-long long M, dp[10005][10005];
+long long M, dp[10005][1000];
 vector<int> primes;
 
 int main() {
@@ -33,4 +33,5 @@ int main() {
         }
 
     fout << dp[N][primes.size()];
+    fout.close();
 }
